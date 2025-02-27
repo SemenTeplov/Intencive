@@ -1,8 +1,6 @@
-package LinkedList;
+package ru.aston.TEPLOV_SO.task2.LinkedList;
 
 import java.util.Collection;
-import java.util.Collections;
-import java.util.Comparator;
 import java.util.Objects;
 
 public class LinkedList<T> {
